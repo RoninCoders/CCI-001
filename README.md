@@ -16,6 +16,10 @@
 
 ### Introdução a Ciência da Computação
 
-1.[O que é Ciência da Computação?](/docs/Computer-Science/What-is.md)
+1. [ O que é Ciência da Computação?](/docs/Computer-Science/What-is.md)
 
-2.[Campos de estudo da Computação](/docs/Computer-Science/Fields-of-study.md)
+2. [ Campos de estudo da Computação](/docs/Computer-Science/Fields-of-study.md)
+
+3. [ Porquê estudar?](/docs/Computer-Science/Why-study.md)
+
+4. [ História da Computação](/docs/Computer-Science/History.md)
