@@ -23,3 +23,5 @@
 3. [ Porquê estudar?](/docs/Computer-Science/Why-study.md)
 
 4. [ História da Computação](/docs/Computer-Science/History.md)
+
+5. [ Álgebra Booleana](/docs/Computer-Science/boolean/Basics.md)
