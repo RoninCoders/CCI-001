@@ -25,3 +25,9 @@
 4. [ História da Computação](/docs/Computer-Science/History.md)
 
 5. [ Álgebra Booleana](/docs/Computer-Science/boolean/Basics.md)
+
+### Sistema Operacional e IDE's
+
+1. [ IDE](/docs/Computer-Science/Resources/IDE.md)
+
+2. [ Sistema Operacional](/docs/Computer-Science/Resources/OS-content.md)
