@@ -26,6 +26,8 @@
 
 5. [ Álgebra Booleana](/docs/Computer-Science/boolean/Basics.md)
 
+6. [ Introdução a Algoritmos](/docs/Computer-Science/algorithms/Intro.md)
+
 ### Sistema Operacional e IDE's
 
 1. [ IDE](/docs/Computer-Science/Resources/IDE.md)
