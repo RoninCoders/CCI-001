@@ -49,3 +49,20 @@ PROGRAMAÇÃO](https://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Intr
 ### Primeiros algoritmos com o Portugol
 
 - [Portugol WebStudio](https://portugol-webstudio.cubos.io/ide)
+
+### Primeiro algoritmo com Portugol
+
+Nosso primeiro algoritmo, que tem como funcionalidade calcular a área de um circulo:
+
+```rs
+programa {
+	funcao inicio() {
+		real PI = 3.14
+		real raio
+		leia(raio)
+		real resultado
+		resultado = PI * raio * raio
+		escreva(resultado)
+	}
+}
+```
