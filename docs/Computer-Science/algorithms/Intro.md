@@ -66,3 +66,10 @@ programa {
 	}
 }
 ```
+Podemos conferir as implementações desse algoritmo em diferentes linguagens de programação:
+
+- **C** - [raio.c](/code/C/raio.c)
+- **Go** - [raio.go](/code/Go/raio.go)
+- **Python** - [raio.py](/code/Python/raio.py)
+- **Rust** - [raio.rs](/code/Rust/raio.rs)
+- **Java** - [Raio.java](/code/Java/Raio.java) 
