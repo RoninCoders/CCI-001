@@ -72,4 +72,19 @@ Podemos conferir as implementações desse algoritmo em diferentes linguagens de
 - **Go** - [raio.go](/code/Go/raio.go)
 - **Python** - [raio.py](/code/Python/raio.py)
 - **Rust** - [raio.rs](/code/Rust/raio.rs)
-- **Java** - [Raio.java](/code/Java/Raio.java) 
+- **Java** - [Raio.java](/code/Java/Raio.java)
+
+### **Lista de exercícios sobre algoritmos básicos:**
+
+Essa lista tem o propósito de incentivar o exercicio prático das atividades de programação.
+
+- [Manipulação de textos e variáveis](https://docs.google.com/document/d/1QfvKHmw-zKMYBW5L4lAoiAOi_7Bhy4ycgPIdfxkFMpE/edit?usp=sharing)
+
+Exercícios feitos sobre **input (stdin)**, **output (stdout)** e manipulação de variáveis.
+
+- **C** - [salario.c](/code/C/salario.c)
+- **Go** - [salario.go](/code/Go/salario.go)
+- **Python** - [salario.py](/code/Python/salario.py)
+- **Rust** - [salario.rs](/code/Rust/salario.rs)
+- **Java** - [Salario.java](/code/Java/Salario.java)
+
